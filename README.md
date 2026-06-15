@@ -2,9 +2,9 @@
 
 ## Descrição
 
-A EcoPonto Colaborativo API é uma solução desenvolvida para auxiliar a comunidade na localização e validação de pontos de coleta sustentável.
+A EcoPonto Colaborativo é uma solução pensada para auxiliar a comunidade na localização e validação de pontos de coleta sustentável.
 
-O sistema permite que os próprios usuários cadastrem novos ecopontos, informem horários de funcionamento, materiais aceitos e contribuam para a manutenção das informações através de confirmações e denúncias.
+O sistema permitirá que os próprios usuários cadastrem novos ecopontos, informem horários de funcionamento, materiais aceitos e contribuam para a manutenção das informações através de confirmações e denúncias.
 
 ## Objetivo
 
@@ -50,7 +50,7 @@ Status:
 * Sob análise
 * Suspenso
 
-## Tecnologias
+## Tecnologias utilizadas
 
 * Node.js
 * Express
