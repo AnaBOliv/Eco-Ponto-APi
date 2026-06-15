@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Mercado Verde",
+    "cidade": "Rio de Janeiro",
+    "materiais": [
+      "Pilhas",
+      "Baterias"
+    ]
+  }
+]
