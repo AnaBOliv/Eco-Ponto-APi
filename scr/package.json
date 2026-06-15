@@ -1,1 +1,14 @@
-
+{
+  "name": "ecoponto-colaborativo-api",
+  "version": "1.0.0",
+  "description": "API colaborativa para pontos de coleta sustentável",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "axios": "^1.11.0"
+  }
+}
