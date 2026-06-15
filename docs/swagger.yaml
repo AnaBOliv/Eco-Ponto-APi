@@ -1,0 +1,7 @@
+paths:
+  /ecopontos:
+    get:
+      summary: Listar ecopontos
+
+    post:
+      summary: Cadastrar ecoponto
