@@ -1,0 +1,35 @@
+{
+  "id": 1,
+  "nome": "Mercado Verde",
+  "cep": "20040020",
+  "logradouro": "Rua Exemplo",
+  "bairro": "Centro",
+  "cidade": "Rio de Janeiro",
+  "estado": "RJ",
+
+  "materiais": [
+    "Pilhas",
+    "Baterias",
+    "Eletrônicos"
+  ],
+
+  "diasFuncionamento": [
+    "Segunda",
+    "Terça",
+    "Quarta",
+    "Quinta",
+    "Sexta"
+  ],
+
+  "horarioAbertura": "08:00",
+
+  "horarioFechamento": "18:00",
+
+  "confirmacoes": 8,
+
+  "denuncias": 1,
+
+  "nivelConfianca": "Média",
+
+  "status": "Ativo"
+}
